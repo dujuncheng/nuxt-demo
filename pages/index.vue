@@ -6,7 +6,7 @@
         nuxt-demo
       </h1>
       <h2 class="subtitle">
-        My premium Nuxt.js project
+        My excellent Nuxt.js project
       </h2>
       <div class="links">
         <a
